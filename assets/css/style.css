@@ -529,8 +529,11 @@
 }
 .footer_area .footer_shape_1{
 	position: absolute;
-    top: 10%;
-    left: 4%;
+    bottom: 420px;
+    left: 330px;
+    width: auto;
+    height: auto;
+
 }
 .footer_area .footer_shape_2{
 	position: absolute;
@@ -544,8 +547,8 @@
 }
 .footer_area .footer_shape_4{
 	position: absolute;
-    top: 20%;
-    right: 8%;
+    top:10%;
+    right: 17%;
 }
 .footer_area .footer_shape_5{
 	position: absolute;
